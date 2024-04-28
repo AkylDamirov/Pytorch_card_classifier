@@ -1,0 +1,7 @@
+torch==1.10.0
+torchvision==0.11.1
+timm==0.5.0
+matplotlib==3.5.1
+pandas==1.4.0
+numpy==1.22.0
+tqdm==4.62.3
