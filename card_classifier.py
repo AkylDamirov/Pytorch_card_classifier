@@ -199,6 +199,8 @@ visualize_predictions(original_image, probabilities, class_names)
 
 
 
+
+
 # test_images = glob('test/*/*')
 # test_examples = np.random.choice(test_images, 5)
 #
